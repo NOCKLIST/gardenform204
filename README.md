@@ -1,5 +1,5 @@
 
-![](http://thenocklist.com/php/img/works/1.jpg
+![](http://thenocklist.com/php/img/works/1.jpg)
 
 [LIVE DEMO](http://thenocklist.com/php/urban/signon.html)
 
