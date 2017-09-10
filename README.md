@@ -3,7 +3,7 @@
 
 [LIVE DEMO](http://thenocklist.com/php/urban/signon.html)
 
-1. DOWNLOAD THE [PHP Secure Registration Forms and Error Pages with Art Background v2.04] Zip (https://github.com/NOCKLIST/gardenform204)
+1. DOWNLOAD THE [PHP Secure Registration Forms and Error Pages with Art Garden Background v2.04] Zip (https://github.com/NOCKLIST/gardenform204)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
